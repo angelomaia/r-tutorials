@@ -1,4 +1,4 @@
-### Statistics and R Lessons
+# Statistics and R Lessons
 
 This repository contains lessons on Statistics and R, designed to introduce basic statistical concepts and how to perform statistical analysis using R. The lessons cover topics such as descriptive statistics, probability distributions, inferential statistics, hypothesis testing, regression analysis, and machine learning.
 
